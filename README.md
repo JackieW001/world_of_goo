@@ -11,7 +11,7 @@ Must have downloaded Processing.
 4. Start playing!
 
 ## How to Play
-The goal of World of Goo is to create structures, such as towers and bridges, out of the tiny goo balls. A container of them is found on the bottom right of the window. Use the gooballs to build a structure that reaches the vortex located at the upper right part of the window.  
-A preexisting square structure made of gooballs rests on a platform on the left of the window.  
-Drag goo balls from the container to expand and build on top of the preexisting gooball structure.  
-Faded white lines will appear if a goo ball that is being drag is held close enough to other gooballs to be attached to them. The lines will show which gooballs will be attached to each other if the dragged gooball is released.  
+1. The goal of World of Goo is to create structures, such as towers and bridges, out of the tiny goo balls. A container of them is found on the bottom right of the window. Use the gooballs to build a structure that reaches the vortex located at the upper right part of the window.  
+2. A preexisting square structure made of gooballs rests on a platform on the left of the window.  
+3. Drag goo balls from the container to expand and build on top of the preexisting gooball structure.  
+4. Faded white lines will appear if a goo ball that is being drag is held close enough to other gooballs to be attached to them. The lines will show which gooballs will be attached to each other if the dragged gooball is released.  
